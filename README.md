@@ -8,6 +8,6 @@ Here is a video showing how these menu work and how they are used to change the 
 
 https://user-images.githubusercontent.com/19945515/126884690-0a47acf6-7cda-479a-94e2-329ffd9bc039.mp4
 
-I am not able to include the different environments in my video as I am not the owner/creator of the assets. My involvement in the project consisted of creating menu and settings functionalities. The project can be find on [this Devpost page](https://devpost.com/software/relaxvr).
+I am not able to include the different environments in my video as I am not the owner/creator of the assets. My involvement in the project consisted of creating menu and settings functionalities. The project can be found on [this Devpost page](https://devpost.com/software/relaxvr).
 
 
