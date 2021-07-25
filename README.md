@@ -6,3 +6,8 @@ This project was part of Stanford's TreeHacks 2021 Hackathon and was made with t
 This repository is grouping all the resources that I provided to the group for our project and includes a menu and settings system for our VR experience.
 Here is a video showing how these menu work and how they are used to change the environment the user wants to immerse himself in:
 
+
+https://user-images.githubusercontent.com/19945515/126884690-0a47acf6-7cda-479a-94e2-329ffd9bc039.mp4
+
+
+
